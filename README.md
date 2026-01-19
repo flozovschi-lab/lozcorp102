@@ -9,6 +9,6 @@ Deploy on Vercel by importing the GitHub repo.
 3) Add your domain in Vercel → Settings → Domains.
 
 ## Contact details in this variant
-- Email: info@lozcorprelocations.md
+- Email: info@lozcorprelocations.com
 - Phone: +373 688 54444
-- Website: www.lozcorprelocations.md
+- Website: www.lozcorprelocations.com
